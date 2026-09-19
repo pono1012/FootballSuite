@@ -1,0 +1,22 @@
+# Temporary & test files
+*.tmp
+*.log
+*.bak
+*.json_backup
+nextmatch.json
+desktop_screenshot.png
+
+# Rainmeter packages & build artifacts
+*.rmskin
+dist/
+build/
+
+# OS / Editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Club badges downloaded on-demand (keeps repository clean of 3rd party copyrighted graphics)
+@Resources/logos/*.png
+!@Resources/logos/default.png
